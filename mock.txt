@@ -1,0 +1,18 @@
+Example 1:
+
+"The countdown begins! 🚀 Only 48 hours until the biggest hackathon of the year. Get your teams ready and your IDEs open. Let's build the future! #HackNation #CodeLife"
+
+Example 2:
+
+"Did you know you can deploy your project in seconds using our new API? Check out the documentation link in bio. Efficiency is everything. ⚡️ #DevTools #TechTips"
+
+Example 3:
+
+"Shoutout to our amazing community for hitting 10k members! You all are the reason we do this. Let's keep hacking! 💻❤️ #Community #Milestone"
+
+Action:
+
+Click "Analyze Brand Voice".
+Then go to "Generate Content".
+Enter Intent: Announce that Team NeuralNet won the Hack-Nation challenge with their AI project.
+Click "Generate Options".

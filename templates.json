@@ -1,0 +1,54 @@
+[
+  {
+    "id": "announcement",
+    "name": "Big Announcement",
+    "layout": "hero_image_bottom",
+    "default_image": "assets/confetti.png",
+    "structure": [
+      "Headline",
+      "Body Text",
+      "Call to Action"
+    ]
+  },
+  {
+    "id": "quote",
+    "name": "Inspirational Quote",
+    "layout": "center_text_overlay",
+    "default_image": "assets/gradient_bg.png",
+    "structure": [
+      "Quote Text",
+      "Author/Source"
+    ]
+  },
+  {
+    "id": "promo",
+    "name": "Product Promo",
+    "layout": "split_view",
+    "default_image": "assets/product_shot.png",
+    "structure": [
+      "Product Name",
+      "Feature List",
+      "Shop Now Button"
+    ]
+  },
+  {
+    "id": "meme",
+    "name": "Tech Humor (Meme)",
+    "layout": "top_bottom_text",
+    "default_image": "assets/meme_bg.png",
+    "structure": [
+      "Top Text",
+      "Bottom Text"
+    ]
+  },
+  {
+    "id": "dataviz",
+    "name": "Data Insight",
+    "layout": "chart_overlay",
+    "default_image": "assets/chart_bg.png",
+    "structure": [
+      "Key Metric",
+      "Analysis Blurb"
+    ]
+  }
+]
